@@ -1,3 +1,4 @@
+
 MystiMath 🔮
 
 🧩 MystiMath is a fun and interactive emoji-based puzzle game where you solve equations using emojis! Test your logic and math skills across multiple levels and uncover hidden values. Challenge yourself and become a true Math Genius! ✨
@@ -42,7 +43,6 @@ mystimath/
 - 👤 Name: Kaviha R. M
 - 🎓 College: V. S. B College of Engineering Technical Campus
 - 📧 Email: Kaviharavichandran2006@gmail.com
-- 📱 Phone: 9597753398
 - 💻 Skills: Java, Data Structures, MERN Stack
 - 🔗 GitHub: https://github.com/kaviha2006
 - 🔗 LinkedIn: https://www.linkedin.com/in/kaviha-ravichandran-306b96328
